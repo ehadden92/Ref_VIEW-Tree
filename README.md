@@ -1,5 +1,5 @@
 # Ref_VIEW-Tree
-Ref_VIEW-Tree is part of the Ref_VIEW suite (see the suite page:https://github.com/ehadden92/Ref_VIEW).
+Ref_VIEW-Tree is part of the Ref_VIEW suite (see the suite page: https://github.com/ehadden92/Ref_VIEW).
 
 Graphical user interface (GUI) for exploring data stored in NeXus/HDF5 format.  
 Includes tree navigation, detector image preview, rotation tools, ROI definition, and interactive integration plots.
